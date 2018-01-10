@@ -1,5 +1,7 @@
-# tweets
+# tweets-cats
 tweet processing
+
+Note that, though the functionality works, this port is extremely slow compared to the scalaz version. This is likely due to me botching or misunderstanding resource management. The slowdown deserves some investigating.
 
 ## trying it out
 
